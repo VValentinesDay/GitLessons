@@ -6,4 +6,10 @@ public class Cat
     System.Console.WriteLine("Cat go");
  }
 
+
+public void Sing()
+{
+    System.Console.WriteLine("Mew");
+}
+
 }
