@@ -12,6 +12,4 @@ public void Sing()
     System.Console.WriteLine("Mew");
 }
 
-public Cat(){}
-
 }
