@@ -9,7 +9,7 @@ public class Cat
 
     public void Sing()
     {
-        System.Console.WriteLine("Meeew");
+        System.Console.WriteLine("Mew");
     }
 
 }
